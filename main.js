@@ -14,7 +14,7 @@ function printMessage(){
     const randSign = Math.floor(Math.random() * signsZod.length);
     const randPred = Math.floor(Math.random() * prediction.length);
 
-    console.log('Este mes ' + signsZod[randSign] + ' ' + prediction[randPred]);
+    console.log('ESTE MES ' + signsZod[randSign] + ' ' + prediction[randPred]);
 };
 
 printMessage();
