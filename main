@@ -1,1 +1,8 @@
 //crea mensaje random cada vez que se ejectua
+//mensajes sobre horoscopo para el día formato -> persona ingresa su signo, y devuelve Hoy (signo) tendrá (suerte/fortuna/etc)
+//1.imprimo los singos
+//2.lo leo, lo paso a mayusculas por las dudas y checkeo que pertenezca
+//3.si pertenece entonces genero un numero random que elige lo que tendrá e imprimo
+//4.si no pertence entonces pide denuevo el signo -> funcion leer
+
+
